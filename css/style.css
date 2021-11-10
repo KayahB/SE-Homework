@@ -1,0 +1,53 @@
+<style type="text/css">
+
+  body{
+    Background-color: #ffb6c1;
+  }
+
+  h1{
+    text-align: center;text-shadow: 20px; text-decoration: line-through;
+  }
+  p{
+    text-align: left;text-indent: inherit;
+  }
+  h3{
+    text-decoration: underline;text-transform: capitalize;text-align: center;
+  }
+  #para1{
+    color:#351c75; text-decoration: line-through;
+  }
+  .para2{
+    color:#b45f06
+  }
+  .para3{
+    color:#3d85c6
+  }
+  .img{
+    overflow: auto;float: inherit;
+  }
+  #gif1{
+    align-items: center;
+  }
+  #div1{
+    background-color: #d9ead3;
+  }
+  #div2{
+    background-color: #a2c4c9;
+  }
+  #div3{
+    background-color: #c27ba0;
+  }
+  #div4{
+    background-color: #b4a7d6;
+  }
+  #div1,#div2,#div3,#div4{
+     border-style: dotted; border-color: yellow;
+  }
+  form{
+    padding: 20px;
+    background-color: #ffe599; font-style: oblique;border-style: ridge;
+    border-color: orange;
+  }
+  input[type="button"]:hover{
+    border-style: double;background-color: purple;
+  }
